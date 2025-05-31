@@ -24,10 +24,8 @@ Create a `.env` file in the root directory with the following variables:
 
 ```env
 PORT=8000
-
 MONGODB_URI=<your-mongdb-uri>
 JWT_SECRET= your-secret-key
-
 REDIS_USERNAME = <your-redis-username>
 REDIS_PASSWORD = <your-redis-password>
 REDIS_HOST = <your-redis-host>
